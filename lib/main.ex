@@ -31,5 +31,3 @@ defmodule Main do
     [Pokemons.Parser.parse(body) | start_parsing({pageNumber + 1, maxPageNumber})]
   end
 end
-
-#  Main.start()
