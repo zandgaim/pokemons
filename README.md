@@ -4,8 +4,8 @@
 
 ## Installation
 
-cd pokemins
-mix deps.get
-iex -S mix
-Main.start()
+cd pokemins \n
+mix deps.get \n
+iex -S mix \n
+Main.start() \n
 
